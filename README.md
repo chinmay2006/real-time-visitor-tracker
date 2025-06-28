@@ -127,12 +127,5 @@ Paste into `index.html` — already done for you.
 
 ---
 
-## 🙌 You're Done!
 
-You now have:
-- A working portfolio site ✅
-- Real-time visitor tracking ✅
-- A beautiful dashboard ✅
-
-Great for learning and showcasing GCP skills!
 
